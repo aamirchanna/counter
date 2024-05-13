@@ -1,5 +1,4 @@
 .main{
-
     justify-content: center;
     align-items: center;
     padding: 10px;
@@ -7,8 +6,16 @@
     /* color: azure; */
     background-color: brown;
     color: black;
-    height: 200px;
+    height: 300px;
     font-size: 25px;
+    margin: 50px;
     line-height: 20%;
-    width: 300px;
+    width: 500px;
+}
+.btn{
+    margin-top:150px ;
+    font-size: 27px;
+    color: white;
+    background-color: black;
+
 }
